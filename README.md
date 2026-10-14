@@ -1,6 +1,6 @@
 # Code Catcher
 
-A Chrome extension that grabs verification codes from your Gmail and copies them to your clipboard, so you don't have to open the email.
+A Chrome extension that grabs verification codes from your Gmail and copies them to your clipboard, so you don't have to open your email every time.
 
 ## Install
 
